@@ -1,3 +1,6 @@
+=====================
+MY foods
+=====================
 My favorite foods are
 Biriyani 
 Chicken 
@@ -9,3 +12,15 @@ potato fry
 pizza
 momos
 and more and more
+
+=====================
+My MOVIES
+=====================
+My fav movies are
+Bahubali
+Murari
+Bharath ane nenu
+nenu local
+subramanyam for sale
+sanam teri kasam 
+mudani mudivam 
